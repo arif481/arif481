@@ -10,7 +10,7 @@ I work on applied machine learning and the software around it: fine-tuning and e
 - [linux-computer-use](https://github.com/arif481/linux-computer-use): a Claude Code plugin that lets an AI agent see and operate a Linux desktop through screenshots and xdotool, with a guard that blocks keystrokes aimed at the wrong window. Tested end to end on a virtual X display in CI.
 - [Final_Year_Project](https://github.com/arif481/Final_Year_Project): quantum versus classical random number generation with Qiskit and the ANU QRNG, plus an estimate of how a Grover-only attack fares against ECDH keys seeded from them.
 - [bd-election-2026](https://github.com/arif481/bd-election-2026): live results for Bangladesh's 2026 election, collected from news coverage by Gemini with Search grounding and scored 0 to 100 for reliability before they are shown.
-- [EduPlanr](https://github.com/arif481/EduPlanr): a study planner whose Gemini tutor also turns uploaded syllabi and exam timetables into structured subjects, topics and dates.
+- [EduPlanr](https://github.com/arif481/EduPlanr): a study planner with a Gemini tutor. It also turns uploaded syllabi and exam timetables into structured subjects, topics and dates.
 - [Nexora](https://github.com/arif481/Nexora): a personal assistant app where Gemini handles chat, receipt scanning and recipe extraction.
 
 ### Experience
