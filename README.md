@@ -6,7 +6,7 @@ I work on applied machine learning and the software around it: fine-tuning and e
 
 ### Selected work
 
-- [CrossLingual-Sentiment](https://github.com/arif481/CrossLingual-Sentiment): fine-tunes XLM-RoBERTa to test how a sentiment classifier trained on English transfers to Bengali, against Bengali-only and combined training and a TF-IDF baseline. The model is on [Hugging Face](https://huggingface.co/arif481/crosslingual-sentiment-model).
+- [CrossLingual-Sentiment](https://github.com/arif481/CrossLingual-Sentiment): fine-tunes XLM-RoBERTa to test how a sentiment classifier trained on English carries over to Bengali. Trained on 64,000 English sentences it reaches 67.8 macro-F1 on Bengali comments, 100 Bengali comments alone give 73.7, and training on both languages gives 87.9. The [model](https://huggingface.co/arif481/crosslingual-sentiment-model) and a [demo](https://huggingface.co/spaces/arif481/crosslingual-demo) are on Hugging Face.
 - [linux-computer-use](https://github.com/arif481/linux-computer-use): a Claude Code plugin that lets an AI agent see and operate a Linux desktop through screenshots and xdotool, with a guard that blocks keystrokes aimed at the wrong window. Tested end to end on a virtual X display in CI.
 - [Final_Year_Project](https://github.com/arif481/Final_Year_Project): quantum versus classical random number generation with Qiskit and the ANU QRNG, plus an estimate of how a Grover-only attack fares against ECDH keys seeded from them.
 - [bd-election-2026](https://github.com/arif481/bd-election-2026): live results for Bangladesh's 2026 election, collected from news coverage by Gemini with Search grounding and scored 0 to 100 for reliability before they are shown.
